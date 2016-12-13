@@ -1,0 +1,7 @@
+1. Image segmentation at https://en.wikipedia.org/wiki/Image_segmentation
+2. Image segmentation at http://homes.di.unimi.it/ferrari/ImgProc2011_12/EI2011_12_16_segmentation_double.pdf
+3. Region Growing at http://users.cs.cf.ac.uk/Dave.Marshall/Vision_lecture/node35.html
+4. Segmentation - Mean-Shift Algorithm at http://robot-develop.org/wp-content/uploads/2012/03/seg3.pdf
+5. Image Segmentation using Mean Shift explained at http://stackoverflow.com/questions/4831813/image-segmentation-using-mean-shift-explained
+6. Mean Shift Clustering at https://www.youtube.com/watch?v=Evc53OaDTFc
+7. Mean Shift: A Robust Approach Towards Feature Space Analysis at https://www.cse.unr.edu/~bebis/CS773C/ObjectRecognition/Papers/Comaniciu02.pdf
